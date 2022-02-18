@@ -1,7 +1,7 @@
 {
     "config" : [
         {
-          "activate_ads" : "true",
+          "activate_ads" : "false",
           "network" : "admob",
           "face_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
           "face_interstital": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
@@ -9,9 +9,9 @@
           "face_mrec": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
           "admob_banner": "ca-app-pub-3940256099942544/6300978111",
           "admob_interstital": "ca-app-pub-3940256099942544/1033173712",
-          "tapdaq_app_id": "00000",
-          "tapdaq_client_key": "00000",
-          "tapdaq_placement_tag": "00000",
+          "tapdaq_app_id": "620fa7c186c31c4e07c118a4",
+          "tapdaq_client_key": "2fbd47a1-bc27-439e-9259-8c3ffcc65547",
+          "tapdaq_placement_tag": "tapdaqplacement",
           "ironsource_key": "0000000000",
           "interstitial_max_loads": "7"
         }
