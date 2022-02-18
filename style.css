@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Share&display=swap');
+*{
+    margin-left: 0px;
+    margin-right: 0px;
+    line-height: 1.55;
+    text-align: justify;
+    font-family: 'Share';
+    color:#000000;
+    font-size: 110%;
+    font-weight: bold;
+}
+ul li {
+    list-style-type: disc;
+}
+p, li{
+    /* opacity: 0.5; */
+}
+img{
+    border-radius: 10px;
+    margin-bottom: 10px;
+    display: block;
+}
+h1{
+    color: #C8291F !important;
+    font-size: 115% !important;
+}
