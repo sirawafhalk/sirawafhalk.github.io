@@ -1,7 +1,7 @@
 {
     "config" : [
         {
-          "activate_ads" : "true",
+          "activate_ads" : "false",
           "network" : "fan",
           "face_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
           "face_interstital": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
