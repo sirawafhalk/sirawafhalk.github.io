@@ -1,0 +1,19 @@
+{
+    "config" : [
+        {
+          "activate_ads" : "true",
+          "network" : "tapdaq",
+          "face_banner": "976798292943987_980532649237218",
+          "face_interstital": "976798292943987_976837639606719",
+          "face_native": "976798292943987_980532742570542",
+          "face_mrec": "976798292943987_980532742570542",
+          "admob_banner": "ca-app-pub-2414831919345894/1326190818",
+          "admob_interstital": "ca-app-pub-2414831919345894/1553421523",
+          "tapdaq_app_id": "620fb8e986c31c4e07c118a7",
+          "tapdaq_client_key": "2fbd47a1-bc27-439e-9259-8c3ffcc65547",
+          "tapdaq_placement_tag": "myplacement",
+          "ironsource_key": "0000000000",
+          "interstitial_max_loads": "7"
+        }
+    ]
+}
