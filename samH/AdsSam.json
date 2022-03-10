@@ -2,7 +2,7 @@
     "config" : [
         {
           "activate_ads" : "true",
-          "network" : "tapdaq",
+          "network" : "is",
           "face_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
           "face_interstital": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
           "face_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
@@ -12,7 +12,7 @@
           "tapdaq_app_id": "621c2878fa0a5d2b508d1124",
           "tapdaq_client_key": "2fbd47a1-bc27-439e-9259-8c3ffcc65547",
           "tapdaq_placement_tag": "myplacementsam",
-          "ironsource_key": "0000000000",
+          "ironsource_key": "13dc1edd1",
           "interstitial_max_loads": "7"
         }
     ]
