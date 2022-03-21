@@ -2,7 +2,7 @@
     "config" : [
         {
           "activate_ads" : "true",
-          "network" : "is",
+          "network" : "tapdaq",
           "face_banner": "976798292943987_988409325116217",
           "face_interstital": "976798292943987_988409481782868",
           "face_native": "976798292943987_988135495143600",
