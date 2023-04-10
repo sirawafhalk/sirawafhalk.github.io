@@ -2,13 +2,13 @@
     "config" : [
         {
           "activate_ads" : "true",
-          "network" : "fan",
+          "network" : "admob",
           "face_banner": "1031443804135406_1035354203744366",
           "face_interstital": "1031443804135406_1035366667076453",
           "face_native": "1031443804135406_1035369743742812",
           "face_mrec": "1031443804135406_1035354203744366",
-          "admob_banner": "ca-app-pub-2414831919345894/4823410670",
-          "admob_interstital": "ca-app-pub-2414831919345894/4855162271",
+          "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+          "admob_interstital": "ca-app-pub-3940256099942544/1033173712",
           "tapdaq_app_id": "621c2878fa0a5d2b508d1124",
           "tapdaq_client_key": "2fbd47a1-bc27-439e-9259-8c3ffcc65547",
           "tapdaq_placement_tag": "myplacementsam",
